@@ -1,4 +1,3 @@
-`
 apakuki@macbookpro-ubuntu:~/Documents/vprofile-project/vagrant/Manual_provisioning_WinMacIntel$ vagrant up
 Bringing machine 'db01' up with 'virtualbox' provider...
 Bringing machine 'mc01' up with 'virtualbox' provider...
@@ -84,5 +83,3 @@ directory and run Vagrant, or you can use the ID directly with
 Vagrant commands from any directory. For example:
 "vagrant destroy 1a2b3c4d"
 apakuki@macbookpro-ubuntu:~/Documents/vprofile-project/vagrant/Manual_provisioning_WinMacIntel$ 
-
-`
