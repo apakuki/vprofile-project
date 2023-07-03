@@ -83,3 +83,4 @@ directory and run Vagrant, or you can use the ID directly with
 Vagrant commands from any directory. For example:
 "vagrant destroy 1a2b3c4d"
 apakuki@macbookpro-ubuntu:~/Documents/vprofile-project/vagrant/Manual_provisioning_WinMacIntel$ 
+
