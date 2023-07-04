@@ -1,3 +1,12 @@
+### 03/07/2023
+
+# VM Setup
+
+* Setup of Vagrant to bootstrap 5 VMs for each component of the stack
+
+* Setup of MySQL Database, MCache and RabbitMQ servers 
+
+
 apakuki@macbookpro-ubuntu:~/Documents/vprofile-project/vagrant/Manual_provisioning_WinMacIntel$ vagrant up
 Bringing machine 'db01' up with 'virtualbox' provider...
 Bringing machine 'mc01' up with 'virtualbox' provider...
@@ -84,3 +93,6 @@ Vagrant commands from any directory. For example:
 "vagrant destroy 1a2b3c4d"
 apakuki@macbookpro-ubuntu:~/Documents/vprofile-project/vagrant/Manual_provisioning_WinMacIntel$ 
 
+### 04/07/2023
+
+# 
