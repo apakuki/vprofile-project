@@ -95,4 +95,7 @@ apakuki@macbookpro-ubuntu:~/Documents/vprofile-project/vagrant/Manual_provisioni
 
 ### 04/07/2023
 
-# 
+* Installed Tomcat - Apache/Java server
+* Installed Web server
+
+
